@@ -25,7 +25,7 @@ public class Mpdemo01Application {
    private UserMapper userMapper;
     public static void main(String[] args) {
        // SpringApplication.run(Mpdemo01Application.class, args);
-
+        System.out.println("2");
     }
 }
 
