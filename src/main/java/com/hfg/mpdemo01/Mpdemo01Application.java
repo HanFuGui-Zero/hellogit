@@ -26,6 +26,7 @@ public class Mpdemo01Application {
     public static void main(String[] args) {
        // SpringApplication.run(Mpdemo01Application.class, args);
         System.out.println("2");
+        System.out.println("创建分支");
     }
 }
 
